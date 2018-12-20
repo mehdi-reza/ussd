@@ -29,5 +29,5 @@ build/Release
 
 db.sqlite
 
-.sublime-project
-.sublime-workspace
+*.sublime-project
+*.sublime-workspace
